@@ -1,7 +1,3 @@
-# verdApi
-Verdapi, Node.js, Angular ve Laravel için basit ve kullanıcı dostu bir API kütüphanesidir.
-
-
 # Verdapi
 
 Verdapi, Node.js, Angular ve Laravel için basit ve kullanıcı dostu bir API kütüphanesidir. Bu kütüphane, geliştiricilere çeşitli platformlar arasında hızlı ve kolay bir şekilde API oluşturma ve kullanma imkanı sağlar.
